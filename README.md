@@ -24,8 +24,7 @@ iOS 과제 인터뷰 - iTunes Search
   https://developer.apple.com/sf-symbols/
 
 4. 라이브러리
-- Alamofire 정도만 사용해주세요.
-- 패키지 관리는 SPM으로 해주세요.
+- 외부 라이브러리가 필요없는 프로젝트입니다.
 
 5. 문의
 - 문의사항은 아래 메일주소로 요청해주세요.  
